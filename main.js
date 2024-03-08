@@ -1,1 +1,1 @@
-alert('Epa, pode não! Aí é crime!');
+alert('Que internet de padaria!');
