@@ -1,2 +1,2 @@
 alert('Que internet de padaria!');
-prompt('Feche seus olhos.');
+prompt('Qual é seu nome?');
