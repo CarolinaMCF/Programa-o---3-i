@@ -1,2 +1,2 @@
-alert('Que internet de padaria!');
-prompt('Qual é seu nome?');
+// alert('Que internet de padaria!');
+var nomeUsuario = prompt('Qual é seu nome?');
