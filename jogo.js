@@ -2,9 +2,6 @@ let numeroSecreto = 7;
 
 let chute = '';
 
-while(chute == ''){
-    chute = prompt('Escolha um número entre 0 e 10.');
-}
 
 while(chute == null ||  chute != numeroSecreto){
     alert('Nunca esqueça de desistir dos seus sonhos :)');
