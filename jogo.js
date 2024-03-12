@@ -6,6 +6,11 @@ while(chute == ''){
     chute = prompt('Escolha um número entre 0 e 10.');
 }
 
+while(chute == null ||  chute != numeroSecreto){
+    alert('Nunca esqueça de desistir dos seus sonhos :)');
+    chute = prompt('Escolha um número entre 0 e 10.');
+}
+
 if(numeroSecreto == chute){
     alert('Parabéns! Você acertou!');
     console.log('Parabéns!');
