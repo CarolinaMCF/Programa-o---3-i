@@ -25,3 +25,7 @@ section {
 .textos {
    text-align: center;
 }
+
+.aba-conteudo {
+   display: none;
+}
