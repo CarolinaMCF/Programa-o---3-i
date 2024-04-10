@@ -21,3 +21,7 @@ section {
 .ativo {
    border-bottom: 4px solid #062a47;
 }
+
+.textos {
+   text-align: center;
+}
