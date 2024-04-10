@@ -29,3 +29,7 @@ section {
 .aba-conteudo {
    display: none;
 }
+
+.ativa {
+   display: block;
+}
