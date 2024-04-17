@@ -23,6 +23,9 @@ const tempoObjetivo3 = new Date ('2024-11-10T00:00:00');
 const tempoObjetivo4 = new Date ('2024-12-13T00:00:00');
 let tempoAtual = new Date ();
 let tempoFinal = tempoObjetivo1 - tempoAtual;
+let tempoFinal = tempoObjetivo2 - tempoAtual;
+let tempoFinal = tempoObjetivo3 - tempoAtual;
+let tempoFinal = tempoObjetivo4 - tempoAtual;
 
 let segundos = Math.floor(tempoFinal/1000);
 let minutos = Math.floor(segundos/60);
